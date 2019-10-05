@@ -1,20 +1,23 @@
 # quantum_walks_review
-(In progress) Literature review of discrete-time QW
+(In progress) Literature review of QW
 
 
 
-Discrete-time QW With jumps:
+QW With jumps:
 * M.A.Pires  and Sílvio M. D. Queirós. "Quantum walks with sequential aperiodic jumps." arXiv preprint arXiv: coming soon
 * MA Pires, G Di Molfetta, SMD Queirós. "Multiple transitions between normal and hyperballistic diffusion in quantum walks with time-dependent jumps." arXiv preprint arXiv:1907.12696 (2019).
 * S. Mukhopadhyay and P. Sen."Persistent quantum walks: dynamic phases and diverging timescales." arXiv preprint arXiv:1909.12610 (2019).
-* Zhao, Jing, and Peiqing Tong. "One-dimensional quantum walks subject to next-nearest-neighbour hopping decoherence." Quantum Information Processing 14.7 (2015): 2357-2372.
-* G Di Molfetta, DO Soares-Pinto, SMD Queirós. "Elephant quantum walk." Physical Review A 97.6 (2018): 062112.
+* J. Zhao and P. Tong, One-dimensional quantum walks subject to next-nearest-neighbour hopping decoherence,
+Quantum Information Processing 14, 2357 (2015).
+* G. Di Molfetta, D. O. Soares-Pinto, and S. M. D. Queirós, Elephant quantum walk, Phys. Rev. A 97, 062112 (2018)
 * Sen, Parongama. "Scaling and crossover behaviour in a truncated long range quantum walk." arXiv preprint arXiv:1902.09129 (2019).
 * Lavička, H., et al. "Quantum walk with jumps." The European Physical Journal D 64.1 (2011): 119.
 * P.Sen. "Unusual scaling in a discrete quantum walk with random long range steps." Physica A: Statistical Mechanics and its Applications 514 (2019): 266-273.
 * Mülken, Oliver, Volker Pernice, and Alexander Blumen. "Universal behavior of quantum walks with long-range steps." Physical Review E 77.2 (2008): 021117.
-* Cáceres, Manuel O., and Marco Nizama. "The quantum Levy walk." Journal of Physics A: Mathematical and Theoretical 43.45 (2010): 455306.
-
+* M. O. Cáceres and M. Nizama, The quantum levy walk, Journal of Physics A: Mathematical and Theoretical 43,455306 (2010).
+* T. Chattaraj and R. V. Krems, Effects of long-range hopping and interactions on quantum walks in ordered and
+disordered lattices, Phys. Rev. A 94, 023601 (2016)
+* 
 
 
 Aperiodic QW:
