@@ -4,7 +4,7 @@
 
 
 QW With jumps:
-* M.A.Pires  and Sílvio M. D. Queirós. "Quantum walks with sequential aperiodic jumps." arXiv preprint arXiv: coming soon
+* MA Pires, G Di Molfetta, SMD Queirós. "Quantum walks with sequential aperiodic jumps." arXiv preprint arXiv: coming soon
 * MA Pires, G Di Molfetta, SMD Queirós. "Multiple transitions between normal and hyperballistic diffusion in quantum walks with time-dependent jumps." arXiv preprint arXiv:1907.12696 (2019).
 * S. Mukhopadhyay and P. Sen."Persistent quantum walks: dynamic phases and diverging timescales." arXiv preprint arXiv:1909.12610 (2019).
 * J. Zhao and P. Tong, One-dimensional quantum walks subject to next-nearest-neighbour hopping decoherence,
@@ -17,7 +17,7 @@ Quantum Information Processing 14, 2357 (2015).
 * M. O. Cáceres and M. Nizama, The quantum levy walk, Journal of Physics A: Mathematical and Theoretical 43,455306 (2010).
 * T. Chattaraj and R. V. Krems, Effects of long-range hopping and interactions on quantum walks in ordered and
 disordered lattices, Phys. Rev. A 94, 023601 (2016)
-* 
+
 
 
 Aperiodic QW:
@@ -39,4 +39,5 @@ Aperiodic QW:
 Applications:
 * Sarkar, Anupam, and C. M. Chandrashekar. "Multi-bit quantum random number generation from a single qubit quantum walk." Scientific reports 9.1 (2019): 1-11.
 * Montero, Miquel. "Quantum and random walks as universal generators of probability distributions." Physical Review A 95.6 (2017): 062326.
-* ...
+* D. Emms, S. Severini, R. C. Wilson, and E. R. Hancock, Coined quantum walks lift the cospectrality of graphs
+and trees, Pattern Recognition 42, 1988 (2009).
