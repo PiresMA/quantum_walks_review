@@ -41,3 +41,5 @@ Applications:
 * Montero, Miquel. "Quantum and random walks as universal generators of probability distributions." Physical Review A 95.6 (2017): 062326.
 * D. Emms, S. Severini, R. C. Wilson, and E. R. Hancock, Coined quantum walks lift the cospectrality of graphs
 and trees, Pattern Recognition 42, 1988 (2009).
+* Ambainis, Andris. "Quantum walks and their algorithmic applications." International Journal of Quantum Information 1.04 (2003): 507-518.
+* Kollár, Bálint, and Mátyás Koniorczyk. "Entropy rate of message sources driven by quantum walks." Physical Review A 89.2 (2014): 022338.
