@@ -43,3 +43,7 @@ Applications:
 and trees, Pattern Recognition 42, 1988 (2009).
 * Ambainis, Andris. "Quantum walks and their algorithmic applications." International Journal of Quantum Information 1.04 (2003): 507-518.
 * Kollár, Bálint, and Mátyás Koniorczyk. "Entropy rate of message sources driven by quantum walks." Physical Review A 89.2 (2014): 022338.
+* Alvir, Rachael, et al. "Perfect state transfer in Laplacian quantum walk." Journal of Algebraic Combinatorics 43.4 (2016): 801-826.
+* Kendon, Vivien M., and Christino Tamon. "Perfect state transfer in quantum walks on graphs." Journal of Computational and Theoretical Nanoscience 8.3 (2011): 422-433.
+* Kurzyński, Paweł, and Antoni Wójcik. "Discrete-time quantum walk approach to state transfer." Physical Review A 83.6 (2011): 062315.
+* Chakraborty, Shantanav, et al. "Spatial search by quantum walk is optimal for almost all graphs." Physical review letters 116.10 (2016): 100501.
