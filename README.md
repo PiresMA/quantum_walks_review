@@ -35,6 +35,7 @@ Aperiodic QW:
 * Ribeiro, Pedro, Perola Milman, and Remy Mosseri. "Aperiodic quantum random walks." Physical review letters 93.19 (2004): 190503.
 
 Quantum walks with random coin BEFORE 2013
+* Ahlbrecht, Andre, et al. "Asymptotic behavior of quantum walks with spatio-temporal coin fluctuations." Quantum Information Processing 11.5 (2012): 1219-1249.
 * Ahlbrecht, Andre, Volkher B. Scholz, and Albert H. Werner. "Disordered quantum walks in one lattice dimension." Journal of Mathematical Physics 52.10 (2011): 102201.
 * Obuse, Hideaki, and Norio Kawakami. "Topological phases and delocalization of quantum walks in random environments." Physical Review B 84.19 (2011): 195139.
 * Ahlbrecht, Andre, et al. "Asymptotic evolution of quantum walks with random coin." Journal of Mathematical Physics 52.4 (2011): 042201.
@@ -46,6 +47,15 @@ Quantum walks with random coin BEFORE 2013
 * Continuous-time QW: Yin, Yue, D. E. Katsanos, and S. N. Evangelou. "Quantum walks on a random environment." Physical Review A 77.2 (2008): 022302. 
 * Pioneer: Ribeiro, Pedro, Perola Milman, and Remy Mosseri. "Aperiodic quantum random walks." Physical review letters 93.19 (2004): 190503.
 
+
+QW with time-dependent coin
+* Romanelli, Alejandro. "Driving quantum-walk spreading with the coin operator." Physical Review A 80.4 (2009): 042332.
+* Banuls, M. C., et al. "Quantum walk with a time-dependent coin." Physical Review A 73.6 (2006): 062304.
+
+
+QW with position-dependent phase acquired by the particle
+* Wójcik, Antoni, et al. "Quasiperiodic dynamics of a quantum walk on the line." Physical review letters 93.18 (2004): 180601.
+(phase acquired by the particle at the position n)
 
 Applications:
 * Sarkar, Anupam, and C. M. Chandrashekar. "Multi-bit quantum random number generation from a single qubit quantum walk." Scientific reports 9.1 (2019): 1-11.
