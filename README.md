@@ -4,7 +4,7 @@
 
 
 QW With jumps:
-* MA Pires, G Di Molfetta, SMD Queirós. "Multiple transitions between normal and hyperballistic diffusion in quantum walks with time-dependent jumps." arXiv preprint arXiv:1907.12696 (2019).
+* MA Pires, G Di Molfetta, SMD Queirós. "Multiple transitions between normal and hyperballistic diffusion in quantum walks with time-dependent jumps." Scientific Reports, 9, 19292 (2019).
 * S. Mukhopadhyay and P. Sen."Persistent quantum walks: dynamic phases and diverging timescales." arXiv preprint arXiv:1909.12610 (2019).
 * J. Zhao and P. Tong, One-dimensional quantum walks subject to next-nearest-neighbour hopping decoherence,
 Quantum Information Processing 14, 2357 (2015).
