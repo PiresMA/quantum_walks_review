@@ -4,11 +4,11 @@
 
 
 QW With jumps:
-* MA Pires, G Di Molfetta, SMD Queirós. "Multiple transitions between normal and hyperballistic diffusion in quantum walks with time-dependent jumps." Scientific Reports, 9, 19292 (2019).
+* M.A.Pires, G Di Molfetta, S.M.D.Queirós. "Multiple transitions between normal and hyperballistic diffusion in quantum walks with time-dependent jumps." Scientific Reports, 9, 19292 (2019).
 * S. Mukhopadhyay and P. Sen."Persistent quantum walks: dynamic phases and diverging timescales." arXiv preprint arXiv:1909.12610 (2019).
 * J. Zhao and P. Tong, One-dimensional quantum walks subject to next-nearest-neighbour hopping decoherence,
 Quantum Information Processing 14, 2357 (2015).
-* G. Di Molfetta, D. O. Soares-Pinto, and S. M. D. Queirós, Elephant quantum walk, Phys. Rev. A 97, 062112 (2018)
+* G. Di Molfetta, D.O.Soares-Pinto, and S.M.D.Queirós, Elephant quantum walk, Phys. Rev. A 97, 062112 (2018)
 * Sen, Parongama. "Scaling and crossover behaviour in a truncated long range quantum walk." arXiv preprint arXiv:1902.09129 (2019).
 * Lavička, H., et al. "Quantum walk with jumps." The European Physical Journal D 64.1 (2011): 119.
 * P.Sen. "Unusual scaling in a discrete quantum walk with random long range steps." Physica A: Statistical Mechanics and its Applications 514 (2019): 266-273.
@@ -19,8 +19,8 @@ disordered lattices, Phys. Rev. A 94, 023601 (2016)
 
 
 
-Aperiodic QW:
-*  MA Pires, SMD Queirós  "Quantum walks with sequential aperiodic jumps." arXiv preprint arXiv:1910.02254 (2019).
+Aperiodic Quantum walks:
+* M.A. Pires, S.M.D.Queirós. "Quantum walks with sequential aperiodic jumps." Physical Review E 102.1 (2020): 012104.
 * Nguyen, Dan Trung, Daniel A. Nolan, and Nicholas F. Borrelli. "Quantum Walks in Quasi-Periodic Photonics Lattices." Advances in Quantum Communication and Information. IntechOpen, 2019.
 * Nguyen, Dan T., Daniel A. Nolan, and Nicholas F. Borrelli. "Localized quantum walks in quasi-periodic Fibonacci arrays of waveguides." Optics express 27.2 (2019): 886-898.
 * Wang, Qin-Qin, et al. "Dynamic-disorder-induced enhancement of entanglement in photonic quantum walks." Optica 5.9 (2018): 1136-1140.
@@ -33,6 +33,22 @@ Aperiodic QW:
 * Ampadu, Clement. "Return Probability of the Fibonacci Quantum Walk." Communications in Theoretical Physics 58.2 (2012): 220.
 * Fillman, Jake. "Resolvent Methods for Quantum Walks with an Application to a Thue–Morse Quantum Walk." Interdisciplinary Information Sciences 23.1 (2017): 27-32.
 * Ribeiro, Pedro, Perola Milman, and Remy Mosseri. "Aperiodic quantum random walks." Physical review letters 93.19 (2004): 190503.
+
+
+Parrondo paradox in Quantum walks:
+* M.A.Pires, S.M.D.Queirós. Genuine Parrondo's paradox in quantum walks with time-dependent coin operators. arXiv preprint arXiv:2007.01437 (2020).
+* J.W.Lai and K.H.Cheong, Parrondo effect in quantumcoin-toss simulations, Phys. Rev. E101, 052212 (2020).
+* J.W.Lai and K.H.Cheong, Parrondos  paradox  fromclassical to quantum:  A review, Nonlinear Dynamics , 1(2020).
+* M.Jan et al. Exper-imental  realization  of  parrondo's  paradox  in  1d  quantum walks, Advanced Quantum Technologies , 1900127(2020).
+* J.Rajendran and C.Benjamin, Playing a true parrondo's game with a three-state coin on a quantum walk, EPL122, 40004 (2018).
+* J. Rajendran and C. Benjamin, Implementing parrondosparadox with two-coin quantum walks, R. Soc. open sci5, 171599 (2018).
+* M.Li, Y.S.Zhang, and G.-C. Guo, Quantum parrondo'sgames  constructed  by  quantum  random  walks,  Fluct.Noise Lett12, 1350024 (2013).
+* A.P.Flitney, Quantum parrondo’s games using quantumwalks, http://arxiv.org/abs/1209.2252  (2012)
+* C.Chandrashekar and S. Banerjee, Parrondo's game us-ing a discrete-time quantum walk, Physics Letters A375,1553 (2011)
+* A.Flitney  and  D.Abbott,  Quantum  models  of  parrondo's games, Physica A324, 152 (2003).
+* D.A.Meyer and H.Blumer, Parrondo games as lattice gas automata, J. Statist.Phys107, 225 (2002)
+* D.A.Meyer and H.Blumer, Quantum parrondo games:biased and unbiased, Fluct. Noise Lett2, L257 (2002).
+
 
 Quantum walks with random coin BEFORE 2013
 * Ahlbrecht, Andre, et al. "Asymptotic behavior of quantum walks with spatio-temporal coin fluctuations." Quantum Information Processing 11.5 (2012): 1219-1249.
