@@ -1,6 +1,7 @@
 # quantum_walks_review
 (In progress) Literature survey of QW
 
+(Still need to update with many works)
 
 
 QW With jumps:
@@ -66,7 +67,8 @@ Quantum walks with random coin BEFORE 2013
 * Pioneer: Ribeiro, Pedro, Perola Milman, and Remy Mosseri. "Aperiodic quantum random walks." Physical review letters 93.19 (2004): 190503.
 
 
-QW with time-dependent coin
+QW with time-dependent coin 
+* Pires, Marcelo A., and Sílvio M. Duarte Queirós. "Negative correlations can play a positive role in disordered quantum walks." Scientific Reports 11, no. 1 (2021): 1-11.
 * Romanelli, Alejandro. "Driving quantum-walk spreading with the coin operator." Physical Review A 80.4 (2009): 042332.
 * Banuls, M. C., et al. "Quantum walk with a time-dependent coin." Physical Review A 73.6 (2006): 062304.
 
