@@ -4,6 +4,8 @@
 
 
 QW With jumps:
+* Naves, Caio B., Marcelo A. Pires, Diogo O. Soares-Pinto, and Sílvio M. Duarte Queirós. "Enhancing entanglement with the generalized elephant quantum walk from localized and delocalized states." arXiv preprint arXiv:2203.17046 (2022).
+* Zaman, Anwar, Rashid Ahmad, Safia Bibi, and Sajid Khan. "Randomizing Quantum Walk." International Journal of Theoretical Physics 61, no. 5 (2022): 1-10.
 * M.A.Pires, G Di Molfetta, S.M.D.Queirós. "Multiple transitions between normal and hyperballistic diffusion in quantum walks with time-dependent jumps." Scientific Reports, 9, 19292 (2019).
 * S. Mukhopadhyay and P. Sen."Persistent quantum walks: dynamic phases and diverging timescales." arXiv preprint arXiv:1909.12610 (2019).
 * J. Zhao and P. Tong, One-dimensional quantum walks subject to next-nearest-neighbour hopping decoherence,
@@ -36,7 +38,7 @@ Aperiodic Quantum walks:
 
 
 Parrondo paradox in Quantum walks:
-* M.A.Pires, S.M.D.Queirós. Genuine Parrondo's paradox in quantum walks with time-dependent coin operators. arXiv preprint arXiv:2007.01437 (2020).
+* Pires, Marcelo A., and Sílvio M. Duarte Queirós. "Parrondo's paradox in quantum walks with time-dependent coin operators." Physical Review E 102, no. 4 (2020): 042124.
 * J.W.Lai and K.H.Cheong, Parrondo effect in quantumcoin-toss simulations, Phys. Rev. E101, 052212 (2020).
 * J.W.Lai and K.H.Cheong, Parrondos  paradox  fromclassical to quantum:  A review, Nonlinear Dynamics , 1(2020).
 * M.Jan et al. Exper-imental  realization  of  parrondo's  paradox  in  1d  quantum walks, Advanced Quantum Technologies , 1900127(2020).
@@ -74,6 +76,7 @@ QW with position-dependent phase acquired by the particle
 (phase acquired by the particle at the position n)
 
 Applications:
+* Casares, Pablo Antonio Moreno, Roberto Campos, and Miguel Angel Martin-Delgado. "QFold: quantum walks and deep learning to solve protein folding." Quantum Science and Technology 7, no. 2 (2022): 025013.
 * Sarkar, Anupam, and C. M. Chandrashekar. "Multi-bit quantum random number generation from a single qubit quantum walk." Scientific reports 9.1 (2019): 1-11.
 * Montero, Miquel. "Quantum and random walks as universal generators of probability distributions." Physical Review A 95.6 (2017): 062326.
 * D. Emms, S. Severini, R. C. Wilson, and E. R. Hancock, Coined quantum walks lift the cospectrality of graphs
