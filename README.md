@@ -1,7 +1,21 @@
 # quantum_walks_review
 (In progress) Literature survey of QW
 
+
+Reviews:
+* K. Kadian, S. Garhwal, and A. Kumar, Quantum walk and its application domains:  A systematic review, Computer Science Review41, 100419 (2021).
+* M. Grafe and A. Szameit, Integrated photonic quantum walks, Journal of Physics B: Atomic, Molecular and Optical Physics53, 073001 (2020).
+* J.  Wu,  W.-W.  Zhang,  and  B.  C.  Sanders,  Topological quantum walks:  Theory  and experiments, Front. Phys.14, 61301 (2019).
+* M. Grafe,  R. Heilmann,  M. Lebugle,  D. Guzman-Silva,A.  Perez-Leija,  and  A.  Szameit,  Integrated  photonic quantum walks, Journal of Optics18, 103002 (2016).
+* T. Kitagawa, Topological phenomena in quantum walks: elementary  introduction  to  the  physics  of  topological phases, Quantum Inf. Process.11, 1107 (2012).
+* V.  M.  Kendon,  A  random  walk  approach  to  quantum algorithms, Philos. Trans. Royal Soc. A364, 3407 (2006).
+* A. Ambainis, Quantum walks and their algorithmic applications,  International  Journal  of  Quantum  Information 1, 507 (2003).
+* J.  Kempe,  Quantum  random  walks:   an  introductory overview, Contemporary Physics44, 307 (2003).
+
+
+
 (Still need to update with many works)
+
 
 
 QW With jumps:
