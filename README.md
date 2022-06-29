@@ -10,10 +10,12 @@ Reviews and overviews:
 * A. Widera, A walk across a quantum lattice, Science 347,1200 (2015).
 * M. Grafe,  R. Heilmann,  M. Lebugle,  D. Guzman-Silva,A.  Perez-Leija,  and  A.  Szameit,  Integrated  photonic quantum walks, Journal of Optics, 18, 103002 (2016).
 * T. Kitagawa, Topological phenomena in quantum walks: elementary  introduction  to  the  physics  of  topological phases, Quantum Inf. Process. 11, 1107 (2012).
+* D.Reitzner,Quantum walks,Acta Physica Slovaca. Reviews and Tutorials61,https://doi.org/10.48550/arXiv.1207.7283 (2011)
 * Frontiers, Feynman's ’quantum walk’ observed, Physics World, 22, 4 (2009)
 * V.  M.  Kendon,  A  random  walk  approach  to  quantum algorithms, Philos. Trans. Royal Soc. A 364, 3407, (2006).
 * A. Ambainis, Quantum walks and their algorithmic applications,  International  Journal  of  Quantum  Information, 1, 507 (2003).
 * J.  Kempe,  Quantum  random  walks:   an  introductory overview, Contemporary Physics, 44, 307 (2003).
+
 
 
 
