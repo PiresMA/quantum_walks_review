@@ -2,8 +2,9 @@
 (In progress) Literature survey of QW
 
 
-Reviews and overviews:
+(Updated) Reviews and overviews:
 * K. Kadian, S. Garhwal, and A. Kumar, Quantum walk and its application domains:  A systematic review, Computer Science Review, 41, 100419 (2021).
+* W Zhou. "Review on quantum walk algorithm." Journal of Physics: Conference Series. Vol. 1748. No. 3. IOP Publishing, (2021).
 * M. Grafe and A. Szameit, Integrated photonic quantum walks, Journal of Physics B: Atomic, Molecular and Optical Physics, 53, 073001 (2020).
 * J.  Wu,  W.-W.  Zhang,  and  B.  C.  Sanders,  Topological quantum walks:  Theory  and experiments, Front. Phys., 14, 61301 (2019).
 * L. Neves and G. Puentes, Photonic discrete-time quantum walks and applications, Entropy, 20, 731 (2018)
@@ -20,7 +21,7 @@ Reviews and overviews:
 
 
 
-(Still need to update with many works)
+(I still need to update)
 
 
 
