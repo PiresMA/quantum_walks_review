@@ -19,7 +19,7 @@
 
 
 
-Applications:
+Some Applications:
 * Casares, Pablo Antonio Moreno, Roberto Campos, and Miguel Angel Martin-Delgado. "QFold: quantum walks and deep learning to solve protein folding." Quantum Science and Technology 7, no. 2 (2022): 025013.
 * Sarkar, Anupam, and C. M. Chandrashekar. "Multi-bit quantum random number generation from a single qubit quantum walk." Scientific reports 9.1 (2019): 1-11.
 * Montero, Miquel. "Quantum and random walks as universal generators of probability distributions." Physical Review A 95.6 (2017): 062326.
