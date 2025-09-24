@@ -3,6 +3,9 @@
 
 
 (Updated) Reviews and overviews:
+* A. Soni, A. Rasool, D.P. Singh. Advances in Random and Quantum Walks: Bridging Classical and Quantum Computational Paradigms. Procedia Computer Science, v. 258, p. 2671-2684, (2025).
+* X Qiang, S Ma, H Song. Haijing. Quantum walk computing: Theory, implementation, and application. Intelligent Computing, v. 3, p. 0097, (2024).
+* W. Zhou. Review on quantum walk algorithm. Journal of Physics: Conference Series. Vol. 1748. No. 3. IOP Publishing, 2021.
 * K. Kadian, S. Garhwal, and A. Kumar, Quantum walk and its application domains:  A systematic review, Computer Science Review, 41, 100419 (2021).
 * W Zhou. "Review on quantum walk algorithm." Journal of Physics: Conference Series. Vol. 1748. No. 3. IOP Publishing, (2021).
 * M. Grafe and A. Szameit, Integrated photonic quantum walks, Journal of Physics B: Atomic, Molecular and Optical Physics, 53, 073001 (2020).
